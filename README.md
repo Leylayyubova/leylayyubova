@@ -6,6 +6,10 @@ A frontend developer from Azerbaijan
 🌱 I’m currently learning
 React Native, jQuery
 
+🎓 Education
+- **Azerbaijan State Oil and Industry University**  
+  *Faculty of Information Technologies*
+
 💬 Ask me about
 - Challenges and solutions in web development
 - Technological innovations and trending topics
