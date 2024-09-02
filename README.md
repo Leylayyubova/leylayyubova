@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Ayyubova Leyla
 
-                                                                             A frontend developer from Azerbaijan 🚀
+                                                                                    A frontend developer from Azerbaijan 🚀
 ## 🛠 Languages and Too
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
