@@ -18,8 +18,8 @@
 
 ## 📄 Know about my experiences
 
-- [![CV (English)](https://img.shields.io/badge/CV%20(Azerbaijan)-000000?style=for-the-badge)](https://drive.google.com/file/d/1OECC6lnOE7DOx2lAvfYEsN4JjWAF5bZL/view?usp=sharing)  
-- [![CV (Azerbaijan)](https://img.shields.io/badge/CV%20(English)-000000?style=for-the-badge)](https://drive.google.com/file/d/1KRFzYVXiNSwrCvL6OwLatUdvY7JU-nPo/view?usp=sharing)  
+- [![CV (English)](https://img.shields.io/badge/CV%20(Azerbaijan)-000000?style=for-the-badge)](https://drive.google.com/file/d/1YUkhyOnow5Ioh1mh_x3SrjSXTOfdLqvo/view?usp=drivesdk)  
+- [![CV (Azerbaijan)](https://img.shields.io/badge/CV%20(English)-000000?style=for-the-badge)](https://drive.google.com/file/d/15oOJL1wHdSCuGaqMnOsXQDU4ueTL1PVl/view?usp=drivesdk)  
 
 **Connect with me**  
 
