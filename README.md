@@ -2,6 +2,9 @@
 # Hi 👋, I'm Ayyubova Leyla
 
                                                                                     A frontend developer from Azerbaijan 🚀
+👨‍💻 About Me
+I am a Frontend Developer specializing in creating interactive and responsive web applications using modern web technologies. I strive to build user-friendly interfaces by working on various projects.
+
 ## 🎓 Education
 
 - **Azerbaijan State Oil and Industry University**  
