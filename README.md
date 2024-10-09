@@ -18,7 +18,7 @@ Faculty of Information Technologies and Management of Information Technologies
 
 **Connect with me**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/leyla-ayyubova-814815231)   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leylayyubova)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyubovaleyla2002@gmail.com)
+<a href="https://www.linkedin.com/in/your_profile" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> </a> <a href="https://github.com/your_profile" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" height="30"/> </a> <a href="mailto:your_email@example.com"> <img src="https://img.icons8.com/material-outlined/24/000000/gmail.png" alt="Gmail" width="30" height="30"/> </a>
 
 🌱 I’m currently learning React Native, jQuery
 
