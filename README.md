@@ -13,9 +13,7 @@ Faculty of Information Technologies and Management of Information Technologies
 
 ## 📄 Know about my experiences
 
-- [![CV (English)](https://img.shields.io/badge/CV%20(Azerbaijan)-000000?style=for-the-badge)](https://drive.google.com/file/d/15oOJL1wHdSCuGaqMnOsXQDU4ueTL1PVl/view?usp=drivesdk)  
-- [![CV (Azerbaijan)](https://img.shields.io/badge/CV%20(English)-000000?style=for-the-badge)](https://drive.google.com/file/d/1YUkhyOnow5Ioh1mh_x3SrjSXTOfdLqvo/view?usp=drivesdkk)  
-
+<div style="display: flex; flex-direction: column; gap: 10px;"> <a href="link_to_your_cv_english" style="text-decoration: none;"> <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;"> <strong>CV (English)</strong> <img src="https://img.icons8.com/ios-filled/30/000000/resume.png" alt="CV Logo" style="float: right;"/> </div> </a> <a href="link_to_your_cv_azerbaijan" style="text-decoration: none;"> <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;"> <strong>CV (Azerbaijan)</strong> <img src="https://img.icons8.com/ios-filled/30/000000/resume.png" alt="CV Logo" style="float: right;"/> </div> </a> </div>
 **Connect with me**  
 
 <a href="https://www.linkedin.com/in/your_profile" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> </a> <a href="https://github.com/your_profile" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" height="30"/> </a> <a href="mailto:your_email@example.com"> <img src="https://img.icons8.com/material-outlined/50/000000/gmail.png" alt="Gmail" width="30" height="30"/> </a>
