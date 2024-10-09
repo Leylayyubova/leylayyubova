@@ -4,17 +4,12 @@
                                                                                     A frontend developer from Azerbaijan 🚀
 ## 🛠 Languages and Tools
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SCSS" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="30" height="30"/>
 
 ## 🎓 Education
 
 - **Azerbaijan State Oil and Industry University**  
-  *Faculty of Information Technologies*
+Faculty of Information Technologies and Management of Information Technologies
 
 ## 📄 Know about my experiences
 
